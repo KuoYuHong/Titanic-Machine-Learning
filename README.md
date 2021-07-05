@@ -1,4 +1,4 @@
-# AI-test
+# Titanic - Machine Learning
 
 ### 鐵達尼資料集說明：<br>
 這次鐵達尼資料集的目標是預測乘客「**是否生存**」<br>
